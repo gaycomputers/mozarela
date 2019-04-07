@@ -5,11 +5,11 @@ Basically, someone was charging people 40 bucks for an 'aesthetic' font that com
 
 WHAT NEEDS TO BE DONE:
 
-  I am looking for feedback on individual problem letters (look and functionality)
+ * I am looking for feedback on individual problem letters (look and functionality)
   
-  I want to add/copy ligatures to the italic font
+ * I want to add/copy ligatures to the italic font
   
-  Reccomendations very welcome in issues
+ * Reccomendations very welcome in issues
   
 
 ![pics](https://github.com/trisimix/mozarela/blob/master/mozarela.png?raw=true)
