@@ -12,4 +12,4 @@ WHAT NEEDS TO BE DONE:
  * Reccomendations very welcome in issues
   
 
-![pics](https://github.com/trisimix/mozarela/blob/master/mozarela.PNG?raw=true)
+![pics](https://github.com/trisimix/mozarela/blob/master/mozarela.png?raw=true)
